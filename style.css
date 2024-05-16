@@ -37,6 +37,8 @@ section{
 }
 
 div.sec{
+    font-size: 25px;
+    font-family: 'Lexend Deca', sans-serif;  
     height: 100vh;
     position: relative;
     overflow: hidden;
